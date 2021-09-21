@@ -3,7 +3,7 @@
 #include "game.h"
 
 // main function
-int man(void) {
+int main(void) {
 	int player = 1; 	// player 1 or player 2
 	int i; 				// keep track of game progress
 	int choice;		// user choice of postion (1,2,etc)
